@@ -1,0 +1,15 @@
+C:\Users\79137\Desktop\Итоговая кр\bin\Debug\net6.0\Итоговая кр.exe
+C:\Users\79137\Desktop\Итоговая кр\bin\Debug\net6.0\Итоговая кр.deps.json
+C:\Users\79137\Desktop\Итоговая кр\bin\Debug\net6.0\Итоговая кр.runtimeconfig.json
+C:\Users\79137\Desktop\Итоговая кр\bin\Debug\net6.0\Итоговая кр.dll
+C:\Users\79137\Desktop\Итоговая кр\bin\Debug\net6.0\Итоговая кр.pdb
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.csproj.AssemblyReference.cache
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.AssemblyInfo.cs
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.dll
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\refint\Итоговая кр.dll
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.pdb
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\Итоговая кр.genruntimeconfig.cache
+C:\Users\79137\Desktop\Итоговая кр\obj\Debug\net6.0\ref\Итоговая кр.dll

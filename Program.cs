@@ -1,4 +1,4 @@
-string[] arrayOne = new string[] {"Hello", "2", "world", ":-)"};
+﻿string[] arrayOne = new string[] {"Hello", "2", "world", ":-)"};
 string[] arrayTwo = new string[arrayOne.Length];
 void SecondArray(string[] arrayOne, string[] arrayTwo)
 {
